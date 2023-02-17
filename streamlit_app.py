@@ -1,3 +1,3 @@
-import srteamlit
+import streamlit
 
 srteamlit.title('Rastafaraita')
