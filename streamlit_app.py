@@ -1,3 +1,3 @@
 import streamlit
 
-srteamlit.title('Rastafaraita')
+streamlit.title('Rastafaraita')
